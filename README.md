@@ -1,2 +1,2 @@
 # n-queen
-# sloved n-Queen by backtracking
+ sloved n-Queen by backtracking

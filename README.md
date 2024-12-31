@@ -16,4 +16,4 @@ The N-Queens solver uses a backtracking algorithm to find all possible arrangeme
 
 This method efficiently explores potential solutions while avoiding unnecessary checks, making it a powerful approach for solving the N-Queens problem.
 
-###Fall 2024
+### Fall 2024
